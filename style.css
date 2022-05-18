@@ -1,5 +1,29 @@
-body {
+.body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
+}
+
+.header {
+    display: flex;
+}
+
+.welcome {
+    display: flex;
+}
+
+.info {
+    display: flex;
+}
+
+.quote {
+    display: flex;
+}
+
+.login {
+    display: flex;
+}
+
+.footer {
+    display: flex;
 }

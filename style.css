@@ -7,11 +7,13 @@ body {
 .header {
     display: flex;
     background-color: #1f2937;
+    color: white;
 }
 
 .welcome {
     display: flex;
     background-color: #1f2937;
+    color: white;
 }
 
 
@@ -30,4 +32,5 @@ body {
 .footer {
     display: flex;
     background-color: #1f2937;
+    color: white;
 }

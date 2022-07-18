@@ -7,13 +7,17 @@ body {
 .header {
     display: flex;
     background-color: #1f2937;
-    color: white;
 }
 
 .welcome {
     display: flex;
     background-color: #1f2937;
-    color: white;
+}
+
+#Welcome {
+font-weight: 800;
+font-size: 48px;
+color: #f9faf8;
 }
 
 
@@ -32,5 +36,4 @@ body {
 .footer {
     display: flex;
     background-color: #1f2937;
-    color: white;
 }

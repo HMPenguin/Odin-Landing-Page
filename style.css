@@ -7,22 +7,31 @@ body {
 .header {
     display: flex;
     background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .welcome {
     display: flex;
     background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 #Welcome {
-font-weight: 800;
-font-size: 48px;
-color: #f9faf8;
+    font-weight: 800;
+    font-size: 48px;
+    color: #f9faf8;
 }
-
 
 .info {
     display: flex;
+}
+
+#InfoHead {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
 }
 
 .quote {
@@ -31,9 +40,14 @@ color: #f9faf8;
 
 .login {
     display: flex;
+    background-color: #3882f6;
 }
 
 .footer {
     display: flex;
     background-color: #1f2937;
+}
+
+button {
+    background-color: #3882f6;
 }

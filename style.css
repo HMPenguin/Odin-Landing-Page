@@ -2,6 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 .header {
@@ -9,6 +10,13 @@ body {
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 18px;
+    justify-content: space-between;
+    padding: 10px 200px
+}
+
+.links {
+    display: flex;
+    align-items: center;
 }
 
 .welcome {
@@ -16,6 +24,7 @@ body {
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 18px;
+    padding: 0 200px;
 }
 
 #Welcome {
